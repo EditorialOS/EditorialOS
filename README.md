@@ -59,6 +59,11 @@
 
   Packages finished stories for publication: matched visual assets, usage rights read from embedded metadata, platform-ready crops, archival context. One brief in, one publishable package out.
 
+    ### [Photo Editor](https://github.com/EditorialOS/photo-editor) — Post-Shoot Metadata Pipeline
+    `Claude plugin` `ExifTool` `XMP/IPTC` `Deterministic CLI`
+
+    Embeds rights, products, and shoot context into image files at ingest. Intelligence at intake, determinism at embed — the model never sits in the write path. Closes the loop with [Composer](https://github.com/EditorialOS/composer): rights written here are read at packaging.
+
   ---
 
   ## Install
