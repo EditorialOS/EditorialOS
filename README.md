@@ -72,6 +72,11 @@
     `MCP server` `PostgreSQL` `OpenAPI` `Multi-tenant` `Proprietary`
 
     The memory and brand-context layer the plugin suite's learning loops stand on. Multi-tenant MCP server with 39 tools auto-generated from a live OpenAPI spec — zero drift between API and tool surface — with per-workspace isolation and a scored eval harness (store → recall → isolation). Source-available, proprietary license.
+  ### [The-Gate-VPS](https://github.com/EditorialOS/The-Gate-VPS) — Eval Engine, Deployed
+  `MCP server` `Docker` `Multi-tenant` `Proprietary`
+
+  The production deployment layer for [The Gate](https://github.com/EditorialOS/The-Gate): a multi-tenant MCP server exposing the eval engine as agent-callable tools. Ships a scored eval harness with pass-rate reporting and a working draft→eval→revise agent example.
+
 
       ## Install
 
