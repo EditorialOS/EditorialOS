@@ -1,6 +1,6 @@
 # Roger Gurbani — Design Systems + AI Infrastructure
 
-  **Portfolio:** [rogergurbanidesign.com](https://rogergurbanidesign.com) · **Contact:** editorial.operating.system@gmail.com
+  **Portfolio:** [signalstudio.io](https://signalstudio.io) · **Contact:** editorial.operating.system@gmail.com
 
   I build AI infrastructure for editorial and marketing teams — document-grounded agent systems with modular skill routing, persistent learning loops, and structured eval frameworks. Three Claude plugins published in the Claude Code plugin ecosystem, plus The Gate, a production editorial quality-gate API.
 
@@ -91,5 +91,5 @@
 
   ---
 
-  **Portfolio:** [rogergurbanidesign.com](https://rogergurbanidesign.com) · editorial.operating.system@gmail.com
+  **Portfolio:** [signalstudio.io](https://signalstudio.io) · editorial.operating.system@gmail.com
   
