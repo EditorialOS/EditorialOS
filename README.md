@@ -54,6 +54,11 @@
 
   Composed pin batches from an approved image library and brand context. Tracks performance by image type × title pattern × board, and applies learnings to every subsequent batch.
 
+  ### [Composer](https://github.com/EditorialOS/composer) — Story Packaging System
+  `Claude plugin` `Google Drive` `Rights metadata`
+
+  Packages finished stories for publication: matched visual assets, usage rights read from embedded metadata, platform-ready crops, archival context. One brief in, one publishable package out.
+
   ---
 
   ## Install
