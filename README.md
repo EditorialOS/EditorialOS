@@ -54,4 +54,24 @@
 
   Composed pin batches from an approved image library and brand context. Tracks performance by image type × title pattern × board, and applies learnings to every subsequent batch.
 
-   
+  ---
+
+  ## Install
+
+  ```
+  /plugin marketplace add EditorialOS/editorial-os
+  /plugin install editorial-os@editorial-os
+
+  /plugin marketplace add EditorialOS/email-marketing-manager
+  /plugin install email-marketing-manager@email-marketing-manager
+
+  /plugin marketplace add EditorialOS/pinterest-marketing-strategist
+  /plugin install pinterest-marketing-strategist@pinterest-marketing-strategist
+  ```
+
+  Runs in Claude Code. After adding the marketplace, install each plugin individually.
+
+  ---
+
+  **Portfolio:** [signalstudio.io](https://signalstudio.io) · editorial.operating.system@gmail.com
+  
