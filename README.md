@@ -66,7 +66,14 @@
 
   ---
 
-  ## Install
+  ## Infrastructure
+
+    ### [Context-API](https://github.com/EditorialOS/Context-API) — Agent Memory Layer
+    `MCP server` `PostgreSQL` `OpenAPI` `Multi-tenant` `Proprietary`
+
+    The memory and brand-context layer the plugin suite's learning loops stand on. Multi-tenant MCP server with 39 tools auto-generated from a live OpenAPI spec — zero drift between API and tool surface — with per-workspace isolation and a scored eval harness (store → recall → isolation). Source-available, proprietary license.
+
+      ## Install
 
   ```
   /plugin marketplace add EditorialOS/editorial-os
